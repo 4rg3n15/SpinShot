@@ -1,0 +1,26 @@
+/build
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node / Frontend
+node_modules/
+dist/
+app/build/
+.next/
+.cache/
+
+# Android / Gradle
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# Logs
+*.log
+EOF
