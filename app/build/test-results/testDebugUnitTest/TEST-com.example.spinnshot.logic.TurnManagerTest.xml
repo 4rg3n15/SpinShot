@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spinnshot.logic.TurnManagerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-26T14:27:04" hostname="MacBook-Pro-de-Argenis.local" time="0.008">
+  <properties/>
+  <testcase name="with two players picks the other" classname="com.example.spinnshot.logic.TurnManagerTest" time="0.006"/>
+  <testcase name="next spinner wraps and advances round" classname="com.example.spinnshot.logic.TurnManagerTest" time="0.001"/>
+  <testcase name="picked player is never spinner when more than 2 players" classname="com.example.spinnshot.logic.TurnManagerTest" time="0.0"/>
+  <testcase name="shuffle keeps every player" classname="com.example.spinnshot.logic.TurnManagerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

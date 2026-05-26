@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spinnshot.logic.WinnerResolverTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-05-26T14:27:04" hostname="MacBook-Pro-de-Argenis.local" time="0.001">
+  <properties/>
+  <testcase name="winner with more points" classname="com.example.spinnshot.logic.WinnerResolverTest" time="0.001"/>
+  <testcase name="verdad o reto ties trigger tie break" classname="com.example.spinnshot.logic.WinnerResolverTest" time="0.0"/>
+  <testcase name="tiebreak in shot or reto picks fewer shots" classname="com.example.spinnshot.logic.WinnerResolverTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

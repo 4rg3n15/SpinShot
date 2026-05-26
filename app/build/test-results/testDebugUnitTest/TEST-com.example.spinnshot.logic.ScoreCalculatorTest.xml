@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spinnshot.logic.ScoreCalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-05-26T14:27:04" hostname="MacBook-Pro-de-Argenis.local" time="0.003">
+  <properties/>
+  <testcase name="shots never go negative on correct answer" classname="com.example.spinnshot.logic.ScoreCalculatorTest" time="0.002"/>
+  <testcase name="verdad o reto reto no cumple removes 3 points" classname="com.example.spinnshot.logic.ScoreCalculatorTest" time="0.0"/>
+  <testcase name="verdad o reto correct adds only point" classname="com.example.spinnshot.logic.ScoreCalculatorTest" time="0.0"/>
+  <testcase name="verdad o shot verdad no cumple doubles" classname="com.example.spinnshot.logic.ScoreCalculatorTest" time="0.0"/>
+  <testcase name="reto no cumple doubles penalty" classname="com.example.spinnshot.logic.ScoreCalculatorTest" time="0.001"/>
+  <testcase name="shot punishment adds shot and removes point" classname="com.example.spinnshot.logic.ScoreCalculatorTest" time="0.0"/>
+  <testcase name="correct in shot or reto adds point removes shot" classname="com.example.spinnshot.logic.ScoreCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
